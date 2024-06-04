@@ -1,0 +1,2 @@
+# javascript
+beginneing of javascript 
